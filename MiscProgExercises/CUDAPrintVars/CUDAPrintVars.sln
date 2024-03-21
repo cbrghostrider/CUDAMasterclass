@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDAPrintVars", "CUDAPrintVars\CUDAPrintVars.vcxproj", "{CC9D3AE3-2D00-48CC-B163-C2B5B8604804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9D3AE3-2D00-48CC-B163-C2B5B8604804}.Debug|x64.ActiveCfg = Debug|x64
+		{CC9D3AE3-2D00-48CC-B163-C2B5B8604804}.Debug|x64.Build.0 = Debug|x64
+		{CC9D3AE3-2D00-48CC-B163-C2B5B8604804}.Release|x64.ActiveCfg = Release|x64
+		{CC9D3AE3-2D00-48CC-B163-C2B5B8604804}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {900C7063-EF2C-4863-BAAA-59E1319E6CF6}
+	EndGlobalSection
+EndGlobal
