@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Note for adjusting visual studio properties to enable dynamic parallelism during compilation:
+// https://stackoverflow.com/questions/59382451/how-to-enable-separate-compilation-for-cuda-project-in-visual-studio
 
 #define mallocCheck(ptr) do { mallocAssert(ptr, __FILE__, __LINE__); } while(0)
 
